@@ -5,8 +5,6 @@ draft: false
 ShowToc: false
 ---
 
-# Tutorials
-
 Check out my comprehensive tutorials:
 
 - [CFEngine Tutorial](http://www.cfenginetutorial.org) - Learn configuration management with CFEngine

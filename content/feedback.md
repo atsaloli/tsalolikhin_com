@@ -5,8 +5,6 @@ draft: false
 ShowToc: false
 ---
 
-# Student Feedback
-
 Here's what students have said about my training sessions:
 
 > "You really do have a gift for taking new concepts that are difficult to grasp and making them accessible."
