@@ -5,19 +5,19 @@ draft: false
 ShowToc: true
 ---
 
-"Time Management for System Administrators"** at [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2013](https://www.socallinuxexpo.org/scale11x/presentations/time-management-systemsadministrators.html) and more
+"Time Management for System Administrators" at [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2013](https://www.socallinuxexpo.org/scale11x/presentations/time-management-systemsadministrators.html) and more
 
-"Power Editing with Vi"** at [Texas LinuxFest 2025](https://2025.texaslinuxfest.org/talks/power-editing-with-vi-basics/), [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2019](https://www.socallinuxexpo.org/scale/17x/presentations/power-editing-vi) and more
+"Power Editing with Vi" at [Texas LinuxFest 2025](https://2025.texaslinuxfest.org/talks/power-editing-with-vi-basics/), [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2019](https://www.socallinuxexpo.org/scale/17x/presentations/power-editing-vi) and more
 
-"Linux Professional Institute DevOps Tools Engineer Preparation Session"** at [SoCal Linux Expo 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session)
+"Linux Professional Institute DevOps Tools Engineer Preparation Session" at [SoCal Linux Expo 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session)
 
-"Setting up CI/CD Pipelines"** at USENIX LISA 2018 and [USENIX LISA 2017](https://www.usenix.org/conference/lisa17/training-program/session/setting-cicd-pipelines)
+"Setting up CI/CD Pipelines" at USENIX LISA 2018 and [USENIX LISA 2017](https://www.usenix.org/conference/lisa17/training-program/session/setting-cicd-pipelines)
 
-"Better DevOps Through Communication"** at [Ohio LinuxFest 2016](https://ohiolinux.org/wp-content/uploads/2016/10/2016sched.pdf) <!-- it would be nice to add the MP3 here -->
+"Better DevOps Through Communication" at [Ohio LinuxFest 2016](https://ohiolinux.org/wp-content/uploads/2016/10/2016sched.pdf) <!-- it would be nice to add the MP3 here -->
 
-"Automating Database System Administration with CFEngine 3"** at [PgDay Denver 2011](http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1) and [PgWest 2011](https://web.archive.org/web/20120212075819/http://pgwest2011.sched.org/)
+"Automating Database System Administration with CFEngine 3" at [PgDay Denver 2011](http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1) and [PgWest 2011](https://web.archive.org/web/20120212075819/http://pgwest2011.sched.org/)
 
-"Introduction to Automating System Administration with CFEngine 3"**
+"Introduction to Automating System Administration with CFEngine 3"
 at [USENIX ATC 2011](https://www.usenix.org/legacy/events/fcw11/training/tutonefile.html#f1), IBM SHARE and more
 
 <!-- ShellCon 2018 and maybe another year? -->
