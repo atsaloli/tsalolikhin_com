@@ -1,0 +1,37 @@
+baseURL = 'https://atsaloli.github.io/tsalolikhin_com/'
+languageCode = 'en-us'
+title = 'Aleksey Tsalolikhin'
+
+[params]
+  description = "System Administrator & Technology Professional"
+  author = "Aleksey Tsalolikhin"
+  github = "https://github.com/atsaloli"
+  linkedin = "https://www.linkedin.com/in/aleksey"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "presentations"
+    name = "Presentations"
+    url = "/presentations/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "photography"
+    name = "Photography"
+    url = "/photography/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
