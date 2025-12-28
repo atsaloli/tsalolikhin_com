@@ -18,6 +18,6 @@ ShowToc: true
 **"Automating Database System Administration with CFEngine 3"** at [PgDay Denver 2011](http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1) and [PgWest 2011](https://web.archive.org/web/20120212075819/http://pgwest2011.sched.org/)
 
 **"Introduction to Automating System Administration with CFEngine 3"**
-at [USENIX 2011](https://www.usenix.org/legacy/events/fcw11/training/tutonefile.html#f1), IBM SHARE and more
+at [USENIX ATC 2011](https://www.usenix.org/legacy/events/fcw11/training/tutonefile.html#f1), IBM SHARE and more
 
 <!-- ShellCon 2018 and maybe another year? -->
