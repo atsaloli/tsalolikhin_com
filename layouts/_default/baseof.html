@@ -29,14 +29,6 @@
     <footer>
         <div class="container">
             <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
-            <div class="social-links">
-                {{ if .Site.Params.github }}
-                <a href="{{ .Site.Params.github }}" target="_blank">GitHub</a>
-                {{ end }}
-                {{ if .Site.Params.linkedin }}
-                <a href="{{ .Site.Params.linkedin }}" target="_blank">LinkedIn</a>
-                {{ end }}
-            </div>
         </div>
     </footer>
 </body>
