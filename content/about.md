@@ -23,21 +23,23 @@ I am now working at Yahoo, helping to operate one of the world's largest infrast
 
 ## Personal Background
 
-I'm from a country that doesn't exist any more. President Ronald Reagon once called it the "Evil Empire" and now they are acting pretty evil again.
+I'm from a country that doesn't exist any more.
 
 I was in Kyiv, Ukraine in 1982 when we celebrated its 1,500th anniversary.
 
 There is a big wall around Kyiv and a set of gates called the Golden Gate. It didn't help when the Mongols came.
 
-I was also in Kyiv in 1986 when Chernobyl happened. I saw the mushrooms and the chestnuts grow to unusual size that fall.
+I was in Kyiv in 1986 when Chernobyl happened. I saw the mushrooms and the chestnuts grow to unusual size that fall.
 
-After the accident at Chernobyl, we moved to Odessa for the summer and then to Tallinn, Estonia, for about a year. Part of my heart is still there in Tallinn and in Kloogarand, on the shore of the Baltic Sea. There is nothing like watching the dunes slowly move in the wind, one grain of sand at a time.
+After the nuclear power station accident, we moved to Odessa for the summer and then to Tallinn, Estonia, for about a year. Part of my heart is still there in Tallinn and in Kloogarand, on the shore of the Baltic Sea. There is nothing like watching the dunes slowly move in the wind, one grain of sand at a time.
 
 We came back to Kyiv in 1988 to finalize our immigration paperwork and came to the USA. I have a whole story about how my family was permitted to leave, then denied permission, then permitted to leave again ten years later.
 
 I am grateful they brought me to America. I was 12 years old at the time.
 
 I went to high school in Los Angeles and attended Brandeis University outside Boston.
+
+My professional education consisted of on-the-job training at EarthLink and classes at [USENIX LISA](https://www.usenix.org/conferences/byname/5).
 
 I now live in Central Texas, Hill Country, with my wife, daughter and three doodles. You can get a taste of our country life in [Photography](/photography/).
 
