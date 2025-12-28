@@ -7,33 +7,22 @@ ShowToc: false
 
 # Aleksey Tsalolikhin
 
-I am a system administrator with extensive experience in managing complex IT infrastructures and automating system administration tasks.
+I am a UNIX/Linux systems administrator and trainer, here to help keep the lights on for our sociotechnical civilization.
 
 ## Professional Background
 
-With a career spanning multiple decades, I have specialized in:
+I am a master generalist systems administrator, with the following specialities:
 
-- **Configuration Management**: Deep expertise in CFEngine and infrastructure automation
-- **System Administration**: Linux/Unix system administration at scale
-- **DevOps & CI/CD**: Building and implementing continuous integration and deployment pipelines
+- **Configuration Management**: Deep expertise in CFEngine and large-scale automation of UNIX and Linux systems administration
 - **Technical Training**: Delivering professional training at major industry conferences
 
 ## Notable Experience
 
-I have worked on challenging projects including the system administration of the IBM Watson Supercomputer, bringing together high-performance computing with robust system administration practices.
+I have worked in a variety of environments, large and small. I've been both the only sysadmin and a member of a large team. More than once, I've been the first sysadmin/DevOps/SRE hire, in a fast-growing company, and left behind an established smooth-running team.
 
-## Community Involvement
+I've started my sysadmin career at EarthLink in the late nineties; I helped digital cinema explode onto the scene in the oughties as a sysadmin, architect and then Director of Operations at Deluxe Digital Cinema; I helped the system administration community adopt configuration management tooling and mindset in the teens as a private consultant and trainer through my company [Vertical Sysadmin](http://www.verticalsysadmin.com) and in the twenties I was part of another explosive growth event as the first SRE at Perplexity AI.
 
-I am an active contributor to the system administration and DevOps communities through:
-
-- Writing technical articles and book chapters
-- Speaking at major conferences (USENIX LISA, Ohio LinuxFest, SoCal Linux Expo)
-- Conducting professional training sessions
-- Technical reviewing for industry publications
-
-## Certifications & Education
-
-I am involved with the Linux Professional Institute and have contributed to DevOps tools engineering education in the community.
+I am now working at Yahoo, helping to operate one of the world's largest infrastructures.
 
 ---
 
