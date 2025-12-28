@@ -27,11 +27,5 @@ title = 'Aleksey Tsalolikhin'
     url = "/presentations/"
     weight = 30
 
-  [[menu.main]]
-    identifier = "photography"
-    name = "Photography"
-    url = "/photography/"
-    weight = 40
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
