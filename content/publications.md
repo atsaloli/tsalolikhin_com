@@ -7,14 +7,14 @@ ShowToc: true
 
 ## Book Contributions
 
-["CFEngine 3.5.1 Agent Promise Attributes [Appendix C]"](https://www.oreilly.com/library/view/learning-cfengine-3/9781449334536/)
+["CFEngine 3.5.1 Agent Promise Attributes [Appendix C]"](https://www.oreilly.com/library/view/learning-cfengine-3/9781449334536/)\
 In Diego Zamboni, *Learning CFEngine 3* (pp. 215-229). O'Reilly, October 2013.
 
 ---
 
 ## Articles
 
-["LISA '12: Real World Configuration Management Workshop"](https://www.usenix.org/system/files/login/articles/1304_reports_lisa12_rwcm.pdf)
+["LISA '12: Real World Configuration Management Workshop"](https://www.usenix.org/system/files/login/articles/1304_reports_lisa12_rwcm.pdf)\
 USENIX *;login:*, April 2013.
 
 ["System Administration of the IBM Watson Supercomputer"](https://www.linuxjournal.com/content/system-administration-ibm-watson-supercomputer)
