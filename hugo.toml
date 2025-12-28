@@ -27,5 +27,17 @@ title = 'Aleksey Tsalolikhin'
     url = "/presentations/"
     weight = 30
 
+  [[menu.main]]
+    identifier = "tutorials"
+    name = "Tutorials"
+    url = "/tutorials/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "feedback"
+    name = "Feedback"
+    url = "/feedback/"
+    weight = 50
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
