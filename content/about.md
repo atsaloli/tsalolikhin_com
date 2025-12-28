@@ -5,8 +5,6 @@ draft: false
 ShowToc: false
 ---
 
-# Aleksey Tsalolikhin
-
 I am a UNIX/Linux systems administrator and trainer, here to help keep the lights on for our sociotechnical civilization.
 
 ## Professional Background
