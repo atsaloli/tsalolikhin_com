@@ -55,6 +55,10 @@ SoCal Linux Expo (SCALE 11x), 2013
 
 ## 2011
 
+**"Automating Database System Administration with CFEngine 3"**
+PgDay Denver, 21 October 2011
+[http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1](http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1)
+
 **"Introduction to Automating System Administration with CFEngine 3"**
 USENIX Federated Conferences Week, 2011
 [https://www.usenix.org/legacy/events/fcw11/training/tutonefile.html#f1](https://www.usenix.org/legacy/events/fcw11/training/tutonefile.html#f1)

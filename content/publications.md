@@ -43,6 +43,14 @@ Poster, USENIX LISA '12, San Diego, CA, December 2012.
 *Linux Journal*, May 2011.
 [https://www.linuxjournal.com/article/10924](https://www.linuxjournal.com/article/10924)
 
+**"The State of Open Source System Automation"**
+*Linux Magazine*, 19 August 2010.
+[https://web.archive.org/web/20190408111654/http://www.linux-mag.com/id/7841/](https://web.archive.org/web/20190408111654/http://www.linux-mag.com/id/7841/)
+
+**"Intro to Automating System Administration with CFEngine 3"** (with Neil Watson)
+*Linux Magazine*, 8 June 2010.
+[https://web.archive.org/web/20161111233032/http://www.linux-mag.com/id/7802/1/](https://web.archive.org/web/20161111233032/http://www.linux-mag.com/id/7802/1/)
+
 ---
 
 ## Technical Reviews
