@@ -5,7 +5,7 @@
 
 <div class="photo-gallery">
   {{- range $images -}}
-    {{- $thumbnail := .Fill "400x300 q85" -}}
+    {{- $thumbnail := .Fit "400x600 q85" -}}
     {{- $fullsize := .Fit "1200x1200 q90" -}}
     <div class="gallery-item">
       <a href="{{ $fullsize.RelPermalink }}" class="gallery-link" target="_blank">

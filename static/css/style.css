@@ -190,17 +190,20 @@ main {
 /* Photo Gallery */
 .photo-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
     margin: 2rem 0;
+    align-items: start;
 }
 
 .gallery-item {
     position: relative;
-    overflow: hidden;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     transition: transform 0.3s, box-shadow 0.3s;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 .gallery-item:hover {
@@ -210,7 +213,7 @@ main {
 
 .gallery-link {
     display: block;
-    position: relative;
+    line-height: 0;
 }
 
 .gallery-item img {
@@ -218,10 +221,11 @@ main {
     height: auto;
     display: block;
     transition: transform 0.3s;
+    border-radius: 8px;
 }
 
 .gallery-item:hover img {
-    transform: scale(1.05);
+    transform: scale(1.02);
 }
 
 /* Footer */
