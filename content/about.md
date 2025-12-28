@@ -31,7 +31,7 @@ There is a big wall around Kyiv and a set of gates called the Golden Gate. It di
 
 I was in Kyiv in 1986 when Chernobyl happened. I saw the mushrooms and the chestnuts grow to unusual size that fall.
 
-After the nuclear power station accident, we moved to Odessa for the summer and then to Tallinn, Estonia, for about a year. Part of my heart is still there in Tallinn and in Kloogarand, on the shore of the Baltic Sea. There is nothing like watching the dunes slowly move in the wind, one grain of sand at a time.
+After the nuclear power station accident, we moved to Odessa for the summer and then to Tallinn, Estonia, for about a year. Part of my heart is still there in Kloogarand, on the shore of the Baltic Sea. There is nothing like watching the dunes slowly move in the wind, one grain of sand at a time.
 
 We came back to Kyiv in 1988 to finalize our immigration paperwork and came to the USA. I have a whole story about how my family was permitted to leave, then denied permission, then permitted to leave again ten years later.
 
