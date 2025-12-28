@@ -1,0 +1,20 @@
+{{- $images := .Page.Resources.ByType "image" -}}
+{{- if eq (len $images) 0 -}}
+  {{- $images = resources.Match (.Get "path") -}}
+{{- end -}}
+
+<div class="photo-gallery">
+  {{- range $images -}}
+    {{- $thumbnail := .Fill "400x300 q85" -}}
+    {{- $fullsize := .Fit "1200x1200 q90" -}}
+    <div class="gallery-item">
+      <a href="{{ $fullsize.RelPermalink }}" class="gallery-link" target="_blank">
+        <img src="{{ $thumbnail.RelPermalink }}"
+             alt="{{ .Name }}"
+             loading="lazy"
+             width="{{ $thumbnail.Width }}"
+             height="{{ $thumbnail.Height }}">
+      </a>
+    </div>
+  {{- end -}}
+</div>
