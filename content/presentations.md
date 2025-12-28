@@ -19,3 +19,5 @@ ShowToc: true
 
 **"Introduction to Automating System Administration with CFEngine 3"**
 at [USENIX Federated Conferences Week, 2011](https://www.usenix.org/legacy/events/fcw11/training/tutonefile.html#f1) and IBM SHARE conference
+
+<!-- ShellCon 2018 and maybe another year? -->
