@@ -39,5 +39,11 @@ title = 'Aleksey Tsalolikhin'
     url = "/feedback/"
     weight = 50
 
+  [[menu.main]]
+    identifier = "photography"
+    name = "Photography"
+    url = "/photography/"
+    weight = 60
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
