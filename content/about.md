@@ -11,16 +11,15 @@ I am a UNIX/Linux systems administrator and trainer, here to help keep the light
 
 ## Professional Background
 
-I am a master generalist systems administrator, with the following specialities:
+I am a master generalist systems administrator, with a specialty in **configuration management**: expert in large-scale automation of Linux system administration and infrastructure insight using CFEngine Enterprise.
 
-- **Configuration Management**: Deep expertise in CFEngine and large-scale automation of UNIX and Linux systems administration
-- **Technical Training**: Delivering professional training at major industry conferences
+I've delivered professional training at USENIX LISA (CFEngine, CI/CD) and many smaller conferences and meetups.
 
 ## Notable Experience
 
 I have worked in a variety of environments, large and small. I've been both the only sysadmin and a member of a large team. More than once, I've been the first sysadmin/DevOps/SRE hire, in a fast-growing company, and left behind an established smooth-running team.
 
-I've started my sysadmin career at EarthLink in the late nineties; I helped digital cinema explode onto the scene in the oughties as a sysadmin, architect and then Director of Operations at Deluxe Digital Cinema; I helped the system administration community adopt configuration management tooling and mindset in the teens as a private consultant and trainer through my company [Vertical Sysadmin](http://www.verticalsysadmin.com) and in the twenties I was part of another explosive growth event as the first SRE at Perplexity AI.
+I've started my sysadmin career at EarthLink in the late nineties as the Internet went mainstream; I helped digital cinema explode onto the scene and replace film faster than anyone expected in the oughties as a sysadmin/architect and then Director of Operations at Deluxe Digital Cinema; I helped the sysadmin community adopt configuration management tooling and mindset in the two thousand teens as a writer, speaker, trainer and consultant through my company [Vertical Sysadmin](http://www.verticalsysadmin.com) and in the twenties I was part of another explosive growth event (the advent of LLM chatbots) as the first SRE at Perplexity AI.
 
 I am now working at Yahoo, helping to operate one of the world's largest infrastructures.
 
