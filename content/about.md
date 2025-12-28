@@ -11,9 +11,9 @@ I am a UNIX/Linux systems administrator and trainer, here to help keep the light
 
 ## Professional Background
 
-I am a master generalist systems administrator, with a specialty in **configuration management**: expert in large-scale automation of Linux system administration and infrastructure insight using CFEngine Enterprise.
+I am a master generalist systems administrator, with specialties in configuration management, CI/CD and establishing teams of sysadmins.
 
-I've delivered professional training at USENIX LISA (CFEngine, CI/CD) and many smaller conferences and meetups.
+I've delivered professional training privately and publicly, including at USENIX LISA, SoCal Linux Expo, Ohio Linux Fest, Texas Linux Fest, IBM SHARE, ShellCon and many more.
 
 ## Notable Experience
 
