@@ -5,6 +5,6 @@ draft: false
 ShowToc: false
 ---
 
-A collection of my photography work.
+Country life FTW
 
 {{< gallery >}}
