@@ -11,8 +11,8 @@ ShowToc: true
 In Diego Zamboni, *Learning CFEngine 3* (pp. 215-229). O'Reilly, October 2013.
 [https://www.oreilly.com/library/view/learning-cfengine-3/9781449334536/](https://www.oreilly.com/library/view/learning-cfengine-3/9781449334536/)
 
-Technical reviewer for two chapters in *Automating System Administration with Perl*, 2nd edition
-by David Blank-Edelman
+Technical reviewer for two chapters in [*Automating System Administration with Perl*, 2nd edition](https://www.oreilly.com/library/view/automating-system-administration/9780596801892/) by David Blank-Edelman
+
 ---
 
 ## Articles
