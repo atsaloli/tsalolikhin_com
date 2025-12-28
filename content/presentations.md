@@ -7,7 +7,7 @@ ShowToc: true
 
 **"Time Management for System Administrators"** at [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo (SCALE 11x), 2013](https://www.socallinuxexpo.org/scale11x/presentations/time-management-systemsadministrators.html) and more
 
-**"Power Editing with Vi"** at Texas LinuxFest 2025, [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo (SCALE17x) 2019](https://www.socallinuxexpo.org/scale/17x/presentations/power-editing-vi) and more
+**"Power Editing with Vi"** at [Texas LinuxFest 2025](https://2025.texaslinuxfest.org/talks/power-editing-with-vi-basics/), [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo (SCALE17x) 2019](https://www.socallinuxexpo.org/scale/17x/presentations/power-editing-vi) and more
 
 **"Linux Professional Institute DevOps Tools Engineer Preparation Session"** at [SoCal Linux Expo (SCALE 18x), 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session)
 
