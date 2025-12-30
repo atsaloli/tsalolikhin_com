@@ -1,12 +1,70 @@
 baseURL = 'https://tsalolikhin.com/'
 languageCode = 'en-us'
 title = 'Aleksey Tsalolikhin'
+theme = 'PaperMod'
 
 [params]
   description = "System Administrator & Trainer"
   author = "Aleksey Tsalolikhin"
-  github = "https://github.com/atsaloli"
-  linkedin = "https://www.linkedin.com/in/aleksey"
+
+  # PaperMod specific settings
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  # Profile mode settings
+  [params.profileMode]
+    enabled = true
+    title = "Aleksey Tsalolikhin"
+    subtitle = "System Administrator & Trainer"
+    imageUrl = "/images/alex-with-beau-jr-cropped.png"
+    imageWidth = 200
+    imageHeight = 200
+    imageTitle = "Aleksey Tsalolikhin"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
+
+    [[params.profileMode.buttons]]
+      name = "Publications"
+      url = "/publications/"
+
+    [[params.profileMode.buttons]]
+      name = "Presentations"
+      url = "/presentations/"
+
+    [[params.profileMode.buttons]]
+      name = "Tutorials"
+      url = "/tutorials/"
+
+    [[params.profileMode.buttons]]
+      name = "Feedback"
+      url = "/feedback/"
+
+    [[params.profileMode.buttons]]
+      name = "Photography"
+      url = "/photography/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/atsaloli"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/aleksey"
 
 [menu]
   [[menu.main]]
