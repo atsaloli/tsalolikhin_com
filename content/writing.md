@@ -36,6 +36,9 @@ USENIX *;login:*, October 2010.
 
 ## Blog Posts
 
+["Sysadmin War Story: The Network Ate My Font"](https://verticalsysadmin.com/2017/09/13/sysadmin-war-story-the-network-ate-my-font/)\
+Vertical Sysadmin, September 2017.
+
 ["Day 19 - Why Use Configuration Management"](https://sysadvent.blogspot.com/2011/12/day-19-why-use-configuration-management.html)\
 SysAdvent, December 2011.
 
