@@ -42,6 +42,9 @@ Vertical Sysadmin, September 2017.
 ["Day 19 - Why Use Configuration Management"](https://sysadvent.blogspot.com/2011/12/day-19-why-use-configuration-management.html)\
 SysAdvent, December 2011.
 
+["Day 24 - Config Management with CFEngine"](https://sysadvent.blogspot.com/2009/12/day-24-config-management-with-cfengine.html)\
+SysAdvent, December 2009.
+
 ---
 
 ## Poster
