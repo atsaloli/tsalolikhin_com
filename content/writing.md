@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "Writing"
 date: 2025-12-28
 draft: false
-ShowToc: true
+ShowToc: false
 ---
 
 ## Book Contributions

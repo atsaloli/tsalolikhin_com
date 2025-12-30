@@ -51,4 +51,4 @@ I now live in Central Texas, Hill Country, with my wife, daughter and three dood
 
 ---
 
-For more details about my work, please see my [Tutorials](/tutorials/), [Publications](/publications/) and [Conference Presentations](/presentations/).
+For more details about my work, please see my [Tutorials](/tutorials/), [Writing](/writing/) and [Conference Presentations](/presentations/).

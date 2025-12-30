@@ -37,8 +37,8 @@ theme = 'PaperMod'
       url = "/about/"
 
     [[params.profileMode.buttons]]
-      name = "Publications"
-      url = "/publications/"
+      name = "Writing"
+      url = "/writing/"
 
     [[params.profileMode.buttons]]
       name = "Presentations"
@@ -57,12 +57,8 @@ theme = 'PaperMod'
       url = "/photography/"
 
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/atsaloli"
-
-  [[params.socialIcons]]
     name = "linkedin"
-    url = "https://www.linkedin.com/in/aleksey"
+    url = "https://www.linkedin.com/in/atsaloli"
 
 [menu]
   [[menu.main]]
@@ -72,9 +68,9 @@ theme = 'PaperMod'
     weight = 10
 
   [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publications/"
+    identifier = "writing"
+    name = "Writing"
+    url = "/writing/"
     weight = 20
 
   [[menu.main]]
