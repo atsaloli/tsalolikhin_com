@@ -34,6 +34,13 @@ USENIX *;login:*, October 2010.
 
 ---
 
+## Blog Posts
+
+["Day 19 - Why Use Configuration Management"](https://sysadvent.blogspot.com/2011/12/day-19-why-use-configuration-management.html)\
+SysAdvent, December 2011.
+
+---
+
 ## Poster
 
 "Degree Programs in System Administration" (with Ski Kacoroski)\
