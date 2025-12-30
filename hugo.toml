@@ -30,8 +30,6 @@ theme = 'PaperMod'
     title = "Aleksey Tsalolikhin"
     subtitle = "System Administrator & Trainer"
     imageUrl = "/images/alex-with-beau-jr-cropped.png"
-    imageWidth = 200
-    imageHeight = 258
     imageTitle = "Aleksey Tsalolikhin"
 
     [[params.profileMode.buttons]]
