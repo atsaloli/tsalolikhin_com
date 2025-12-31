@@ -37,7 +37,7 @@ I was in Kyiv, Ukraine in 1982 when we celebrated the 1,500th anniversary of the
 
 I was in the countryside near Kyiv in April 1986, pulling up brush, when Chernobyl happened. The mushrooms and chestnuts grew to unusual size that year. Nobody took them, they looked wrong. We still had the May Day parade. We didn't know.
 
-After we found out (thanks to my uncle calling us from America -- what do you mean you are still there? don't you know?! Get out!!), we moved to Odessa for the summer and then to Estonia for about a year. Part of my heart is still there, in Kloogarand, on the Baltic shore. I saw dunes slowly migrating down the beach, the wind moving them a grain of sand at a time.
+After we found out (thanks to my uncle calling us from America -- what do you mean you are still there? don't you know?! Get out!!), we moved to Odessa on the Black Sea for the summer and then to Estonia for about a year. Part of my heart is still there, in Kloogarand, on the Baltic shore. I saw dunes slowly migrating down the beach, the wind moving them a grain of sand at a time.
 
 We came back to Kyiv in 1988 to finalize our immigration paperwork and receive our "traitor to the motherland" stamps. The Soviets took away my grandfather's World War II medals. He had to file down his wedding ring to stay under the gold export quota.
 
