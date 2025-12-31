@@ -45,7 +45,7 @@ I was 12 years old when we came to the USA. I have a whole separate story about 
 
 I went to high school in Los Angeles and attended Brandeis University outside Boston.
 
-My professional education consisted of on-the-job training at EarthLink and classes at [USENIX LISA](https://www.usenix.org/conferences/byname/5). I am happy I got to teach at LISA before it closed.
+My professional education consisted of on-the-job training at EarthLink and classes at [USENIX LISA](https://www.usenix.org/conferences/byname/5). I am ridiculously happy I got to teach at LISA before it closed.
 
 My wife is from Australia and my daughter was born there, in the Royal Prince Alfred Hospital in Sydney. I tell her that means she is a princess. "That's not how that works, Dad."
 
