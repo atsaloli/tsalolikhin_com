@@ -47,7 +47,7 @@ I went to high school in Los Angeles and attended Brandeis University outside Bo
 
 My professional education consisted of on-the-job training at EarthLink and classes at [USENIX LISA](https://www.usenix.org/conferences/byname/5). I am ridiculously happy I got to teach at LISA before it closed.
 
-My wife is from Australia and my daughter was born there, in the Royal Prince Alfred Hospital in Sydney. I tell her that means she is a princess. "That's not how that works, Dad."
+My wife is from Australia and my daughter was born in the Royal Prince Alfred Hospital in Sydney. I tell her that means she is a princess. "That's not how that works, Dad."
 
 I now live in Central Texas hill country, with my wife, daughter and three doodles. You can get a taste of our country life in [Photography](/photography/).
 
