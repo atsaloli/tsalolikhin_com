@@ -47,6 +47,12 @@ SysAdvent, December 2009.
 
 ---
 
+## Websites
+
+[Guide to the System Administration Body of Knowledge](https://sabok.org)
+
+---
+
 ## Poster
 
 "Degree Programs in System Administration" (with Ski Kacoroski)\
