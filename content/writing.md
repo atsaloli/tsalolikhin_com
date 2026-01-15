@@ -32,15 +32,15 @@ USENIX *;login:*, October 2010.
 ["Intro to Automating System Administration with CFEngine 3" (with Neil Watson)](https://web.archive.org/web/20161111233032/http://www.linux-mag.com/id/7802/1/)\
 *Linux Magazine*, 8 June 2010.
 
+["Mars Code: Building Robust Software"](/posts/mars-code/)\
+Vertical Sysadmin, October 2012.
+
 ---
 
 ## Blog Posts
 
 ["Sysadmin War Story: The Network Ate My Font"](https://verticalsysadmin.com/2017/09/13/sysadmin-war-story-the-network-ate-my-font/)\
 Vertical Sysadmin, September 2017.
-
-["Mars Code: Building Robust Software"](/posts/mars-code/)\
-October 2012.
 
 ["Day 19 - Why Use Configuration Management"](https://sysadvent.blogspot.com/2011/12/day-19-why-use-configuration-management.html)\
 SysAdvent, December 2011.
