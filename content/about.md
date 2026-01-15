@@ -21,7 +21,7 @@ I started my UNIX Sysadmin career at EarthLink in the late nineties as the Inter
 
 I saw digital cinema explode onto the scene and replace film faster than anyone in the industry expected at Deluxe Digital Cinema in the oughties.
 
-In the teens, I encouraged the sysadmin world adopt configuration management as a trainer and consultant at [Vertical Sysadmin](http://www.verticalsysadmin.com).
+In the teens, I encouraged the sysadmin world to adopt configuration management as a trainer and consultant at [Vertical Sysadmin](http://www.verticalsysadmin.com).
 
 In the twenties I experienced another high-velocity growth event, the advent of our AI overlords, as the first SRE at Perplexity AI.
 
