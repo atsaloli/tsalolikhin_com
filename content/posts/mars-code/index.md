@@ -1,6 +1,6 @@
 ---
 title: "Mars Code: Building Robust Software"
-date: 2016-02-15
+date: 2012-10-15
 draft: false
 ShowToc: true
 ---
