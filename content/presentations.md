@@ -19,7 +19,7 @@ ShowToc: true
   - At [LinuxCon North America 2012](https://lcna2012.sched.com/speaker/alekseytsalolikhin) and more.
 
 - "Linux Professional Institute DevOps Tools Engineer Preparation Session"
-  - Prep session for the [LPI DevOps Tools Engineer](https://www.lpi.org/our-certifications/devops-overview/) certification exam.
+  - Prep session for the [LPI DevOps Tools Engineer](https://www.lpi.org/our-certifications/devops-overview/) certification exam, developed in partnership with LPI.
   - At [SoCal Linux Expo 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session) and more.
 
 - "Setting up CI/CD Pipelines"
