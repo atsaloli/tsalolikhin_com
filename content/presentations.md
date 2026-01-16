@@ -23,7 +23,7 @@ ShowToc: true
   - At [SoCal Linux Expo 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session) and more.
 
 - "Setting up CI/CD Pipelines"
-  - A hands-on workshop in setting up CI/CD pipelines with GitLab, and again with Jenkins.
+  - A hands-on workshop in setting up CI/CD pipelines first with GitLab, and again with Jenkins.
   - [Review](https://www.usenix.org/blog/ci-cd-piplelines) by Matt Simmons
   - At [USENIX LISA 2018](https://www.usenix.org/conference/lisa18/presentation/tsalolikhin) and [USENIX LISA 2017](https://www.usenix.org/conference/lisa17/training-program/session/setting-cicd-pipelines).
 
