@@ -53,6 +53,6 @@ I now live in Central Texas hill country, with my wife, daughter and three doodl
 
 ---
 
-For more details about my work, please see my [Tutorials](/tutorials/), [Writing](/writing/) and [Conference Presentations](/presentations/).
+For more details about my work, please see my [Writing](/writing/) and [Conference Presentations](/presentations/).
 
 Want to know what I'm up to right now? Check out my [Now](/now/) page.
