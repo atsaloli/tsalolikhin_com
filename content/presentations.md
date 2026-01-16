@@ -9,8 +9,9 @@ ShowToc: true
   - Workshop based on Tom Limoncelli's [life-saving book](https://www.amazon.com/Time-Management-System-Administrators-Working/dp/0596007833).
   - At [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2013](https://www.socallinuxexpo.org/scale11x/presentations/time-management-systemsadministrators.html) and more.
 
-- "Power Editing with Vi: Basics" at [Texas LinuxFest 2025](https://2025.texaslinuxfest.org/talks/power-editing-with-vi-basics/), [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2019](https://www.socallinuxexpo.org/scale/17x/presentations/power-editing-vi) and more.
-  - Based on Bill Joy's [An Introduction to Display Editing with Vi](/static/pdfs/An_Introduction_to_Display_Editing_with_Vi.pdf), the original paper introducing the Vi editor and all its features, core and advanced. This workshop covers the coer features.
+- "Power Editing with Vi: Basics"
+  - Based on Bill Joy's [An Introduction to Display Editing with Vi](/static/pdfs/An_Introduction_to_Display_Editing_with_Vi.pdf), the original paper introducing the Vi editor and all its features, core and advanced. This hands-on workshop covers the core features.
+  - Training materials are at [http://vitutorial.org](http://vitutorial.org)
   - At [Texas LinuxFest 2025](https://2025.texaslinuxfest.org/talks/power-editing-with-vi-basics/), [Ohio LinuxFest 2024](https://olfconference.org/2024-olfi-training/sysadmin/), [SoCal Linux Expo 2019](https://www.socallinuxexpo.org/scale/17x/presentations/power-editing-vi) and more.
 
 - "Power Editing with Vi: Advanced"
