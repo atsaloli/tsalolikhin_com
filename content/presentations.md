@@ -16,7 +16,7 @@ ShowToc: true
 
 - "Power Editing with Vi: Advanced"
   - And this is part two, covering the advanced features.
-  - At [LinuxCon North America 2012](https://lcna2012.sched.com/speaker/alekseytsalolikhin)
+  - At [LinuxCon North America 2012](https://lcna2012.sched.com/speaker/alekseytsalolikhin) and more.
 
 - "Linux Professional Institute DevOps Tools Engineer Preparation Session"
   - Prep session for the [LPI DevOps Tools Engineer](https://www.lpi.org/our-certifications/devops-overview/) certification exam.
