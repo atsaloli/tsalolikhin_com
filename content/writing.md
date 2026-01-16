@@ -17,6 +17,9 @@ In Diego Zamboni, *Learning CFEngine 3* (pp. 215-229). O'Reilly, October 2013.
 ["LISA '12: Real World Configuration Management Workshop"](https://www.usenix.org/system/files/login/articles/1304_reports_lisa12_rwcm.pdf)\
 USENIX *;login:*, April 2013.
 
+["Mars Code: Building Robust Software"](/posts/mars-code/)\
+Vertical Sysadmin, October 2012.
+
 ["System Administration of the IBM Watson Supercomputer"](https://www.linuxjournal.com/content/system-administration-ibm-watson-supercomputer)\
 *Linux Journal*, April 2012.
 
@@ -31,9 +34,6 @@ USENIX *;login:*, October 2010.
 
 ["Intro to Automating System Administration with CFEngine 3" (with Neil Watson)](https://web.archive.org/web/20161111233032/http://www.linux-mag.com/id/7802/1/)\
 *Linux Magazine*, 8 June 2010.
-
-["Mars Code: Building Robust Software"](/posts/mars-code/)\
-Vertical Sysadmin, October 2012.
 
 ---
 
