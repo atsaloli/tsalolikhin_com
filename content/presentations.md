@@ -28,8 +28,9 @@ ShowToc: true
   - At [USENIX LISA 2018](https://www.usenix.org/conference/lisa18/presentation/tsalolikhin) and [USENIX LISA 2017](https://www.usenix.org/conference/lisa17/training-program/session/setting-cicd-pipelines).
 
 - "Better DevOps Through Communication"
-<!-- it would be nice to add the MP3 here -->
+  - A workshop on improving communication skills, based on material from American best-selling author L. Ron Hubbard.
   - At [Ohio LinuxFest 2016](https://ohiolinux.org/wp-content/uploads/2016/10/2016sched.pdf), Unix Users Association of Southern California, and more.
+<!-- it would be nice to add the MP3 here -->
 
 - "Automating Database System Administration with CFEngine 3" at [PgDay Denver 2011](http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1) and [PgWest 2011](https://web.archive.org/web/20120212075819/http://pgwest2011.sched.org/).
   - At [PgDay Denver 2011](http://www.youtube.com/v/K2BpRYA-ifw&fs=1&hd=1) and [PgWest 2011](https://web.archive.org/web/20120212075819/http://pgwest2011.sched.org/).
