@@ -41,7 +41,7 @@ USENIX *;login:*, October 2010.
 ["The State of Open Source System Automation"](https://web.archive.org/web/20190408111654/http://www.linux-mag.com/id/7841/)\
 *Linux Magazine*, 19 August 2010.
 
-["Intro to Automating System Administration with CFEngine 3" (with Neil Watson)](https://web.archive.org/web/20161111233032/http://www.linux-mag.com/id/7802/1/)\
+["Intro to Automating System Administration with CFEngine 3"](https://web.archive.org/web/20161111233032/http://www.linux-mag.com/id/7802/1/) (with Neil Watson)\
 *Linux Magazine*, 8 June 2010.
 
 ---
