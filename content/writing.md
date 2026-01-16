@@ -5,7 +5,14 @@ draft: false
 ShowToc: false
 ---
 
-## Book Contributions
+## Tutorials
+
+My CFEngine and Vi training materials are online:
+
+- [CFEngine Tutorial](http://www.cfenginetutorial.org) - Learn configuration management with CFEngine
+- [Power Editing with Vi: Basics](http://vitutorial.org/) - Master the fundamentals of the Vi text editor
+
+## Book Contribution
 
 ["CFEngine 3.5.1 Agent Promise Attributes [Appendix C]"](https://www.oreilly.com/library/view/learning-cfengine-3/9781449334536/)\
 In Diego Zamboni, *Learning CFEngine 3* (pp. 215-229). O'Reilly, October 2013.
