@@ -1,11 +1,14 @@
 ---
-title: "Now"
+title: "What I'm doing now"
 date: 2026-01-16
 draft: false
 ShowToc: false
 ---
 
-Here is what I'm working on now:
+(This is [a now page](https://nownownow.com/about).)
+
+Updated January, 2026, from my deep-in-the-woods home in Central Texas, Hill Country.
+
 - In late 2025, I joined Yahoo as a production DNS engineer. Excited to work on one of world's largest infrastructures.
 - Presented [Vi Tutorial](http://www.vitutorial.org) at [Texas Linux Fest](https://2025.texaslinuxfest.org/)
 - [CFEngine Tutorial](http://www.cfenginetutorial.org) is back online
