@@ -20,7 +20,7 @@ ShowToc: true
 
 - "Linux Professional Institute DevOps Tools Engineer Preparation Session"
   - Prep session for the [LPI DevOps Tools Engineer](https://www.lpi.org/our-certifications/devops-overview/) certification exam, developed in partnership with LPI.
-  - At [SoCal Linux Expo 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session) and more.
+  - At [SoCal Linux Expo 2020](https://www.socallinuxexpo.org/scale/18x/presentations/linux-professional-institutedevops-tools-engineer-preparation-session), [ShellCon 2018](https://web.archive.org/web/20211010074249/https://2018.shellcon.io/raiseme/university/#lpi-devops-tool-engineer-exam-cram-session) and more.
 
 - "Setting up CI/CD Pipelines"
   - A hands-on workshop in setting up CI/CD pipelines first with GitLab, and again with Jenkins.
