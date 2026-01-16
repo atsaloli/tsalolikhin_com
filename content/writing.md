@@ -12,6 +12,8 @@ My CFEngine and Vi training materials are online:
 - [CFEngine Tutorial](http://www.cfenginetutorial.org) - Learn configuration management with CFEngine
 - [Power Editing with Vi: Basics](http://vitutorial.org/) - Master the fundamentals of the Vi text editor
 
+---
+
 ## Book Contribution
 
 ["CFEngine 3.5.1 Agent Promise Attributes [Appendix C]"](https://www.oreilly.com/library/view/learning-cfengine-3/9781449334536/)\
@@ -59,7 +61,7 @@ SysAdvent, December 2009.
 
 ## Websites
 
-[Guide to the System Administration Body of Knowledge](https://sabok.org)
+[Guide to the System Administration Body of Knowledge](https://sabok.org) LOPSA Professional Content Committee, 2013.
 
 ---
 
@@ -67,8 +69,6 @@ SysAdvent, December 2009.
 
 "Degree Programs in System Administration" (with Ski Kacoroski)\
 Poster, USENIX LISA '12, San Diego, CA, December 2012.
-
-<!-- sysadvent article(s) -->
 
 <!--
 ---
