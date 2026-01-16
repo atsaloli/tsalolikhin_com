@@ -24,7 +24,7 @@ ShowToc: true
 
 - "Setting up CI/CD Pipelines"
   - A hands-on workshop in setting up CI/CD pipelines first with GitLab, and again with Jenkins.
-  - [Review](https://www.usenix.org/blog/ci-cd-piplelines) by Matt Simmons
+  - An enthusiastic [review](https://www.usenix.org/blog/ci-cd-piplelines) by Matt Simmons
   - At [USENIX LISA 2018](https://www.usenix.org/conference/lisa18/presentation/tsalolikhin) and [USENIX LISA 2017](https://www.usenix.org/conference/lisa17/training-program/session/setting-cicd-pipelines).
 
 - "Better DevOps Through Communication"
