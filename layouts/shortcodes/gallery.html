@@ -2,6 +2,7 @@
 {{- if eq (len $images) 0 -}}
   {{- $images = resources.Match (.Get "path") -}}
 {{- end -}}
+{{- $videos := .Page.Resources.ByType "video" -}}
 
 <div class="photo-gallery">
   {{- range $images -}}
@@ -15,6 +16,14 @@
              width="{{ $thumbnail.Width }}"
              height="{{ $thumbnail.Height }}">
       </a>
+    </div>
+  {{- end -}}
+  {{- range $videos -}}
+    <div class="gallery-item gallery-item--video">
+      <video controls preload="metadata" class="gallery-video">
+        <source src="{{ .RelPermalink }}" type="{{ .MediaType }}">
+        Your browser does not support the video tag.
+      </video>
     </div>
   {{- end -}}
 </div>
