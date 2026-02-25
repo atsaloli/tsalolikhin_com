@@ -49,3 +49,14 @@
 .gallery-item:hover img {
     transform: scale(1.02);
 }
+
+.gallery-item--video {
+    background: #000;
+}
+
+.gallery-video {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
